@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👋
 
-<!--
-**higinobagda/higinobagda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yasmin conhecida como Higino
 
-Here are some ideas to get you started:
+- Estou estudando .[Alura]_(https://www.alura.com.br)_
 
-- 🔭 I’m currently working on alura
-- 🌱 I’m currently learning javascipt
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she
-- ⚡ Fun fact: i'm gay
--->
+- Estou me desenvolvendo na linguagem JavaScript
+
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+- ### Você entrar em contato comigo 📫
+
+- yasminhiginosilva09@gmail.com
+
+-@_higino.bagda
