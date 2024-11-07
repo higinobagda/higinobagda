@@ -1,4 +1,4 @@
-##  vindas ao meu perfil 👅🖕 ✮
+##  Bem vindas ao meu perfil 👅🖕 ✮
 
 Meu nome é Yasmin conhecida como Higino ✮
 
